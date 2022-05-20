@@ -1,2 +1,2 @@
 # Meu-Primeiro-Terraform
-Terraform afim de adquirir conhecimentos
+Código desenvolvido a fins de estudo da ferramenta Terraform. 
